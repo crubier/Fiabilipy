@@ -11,7 +11,7 @@ setup(name='fiabilipy',
       url='http://fiabilipy.org',
       license='GPLv2+',
       keywords=('dependability', 'availability', 'reliability', 'markov'),
-      requires=['numpy', 'scipy', 'sympy', 'networkx'],
+      requires=['numpy', 'scipy', 'sympy', 'networkx','past'],
       packages=['fiabilipy'],
       classifiers=[
           'Development Status :: 3 - Alpha',
