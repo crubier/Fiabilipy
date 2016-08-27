@@ -24,4 +24,4 @@ Requires: numpy
 Requires: scipy
 Requires: sympy
 Requires: networkx
-Requires: past
+Requires: future
