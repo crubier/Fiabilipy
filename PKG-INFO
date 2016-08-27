@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: fiabilipy
+Version: 3
+Summary: Learn engineering reliability with python
+Home-page: http://fiabilipy.org
+Author: Simon Chabot, Akim Sadaoui
+Author-email: contact@fiabilipy.org
+License: GPLv2+
+Description: This package provides some functions to learn engineering reliability
+        at university. One can build components, put them together to build a
+        system and evaluate its reliability, maintainability, availability, the
+        Mean-Time-To-Failure, etc.
+
+        This package also provides functions to describe a system by a Markov process.
+
+Keywords: dependability,availability,reliability,markov
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Topic :: Scientific/Engineering
+Requires: numpy
+Requires: scipy
+Requires: sympy
+Requires: networkx

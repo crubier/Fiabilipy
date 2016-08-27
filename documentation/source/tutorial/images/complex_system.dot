@@ -1,0 +1,16 @@
+digraph G {
+	rankdir=LR;
+	node [shape=box];	splines=ortho;
+	"c" -> "f"
+	"E" -> "a"
+	"E" -> "b"
+	"E" -> "c"
+	"E" -> "g"
+	"b" -> "f"
+	"g" -> "S"
+	"a" -> "S"
+	"f" -> "e"
+	"f" -> "d"
+	"e" -> "S"
+	"d" -> "S"
+}
