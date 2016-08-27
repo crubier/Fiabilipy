@@ -1,3 +1,11 @@
+2016-08-27 Vincent Lecrubier <vincent dot lecrubier at gmail dot com>
+
+	* 3.0 :
+	Port to python3
+	networkx representation is based on names of components instead of component instances themselves
+  addition of the `_map` attribute on `systems` in order to map component names to component themselves
+
+
 2013-10-08 Akim Sadoui <akim dot sadoui at etu dot utc dot fr>
 
 	* 2.4 :
