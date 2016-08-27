@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup(name='fiabilipy3',
+setup(name='fiabilipy',
       version='3.0',
       description='Learn engineering reliability with python',
       long_description=open('README.md').read(),
