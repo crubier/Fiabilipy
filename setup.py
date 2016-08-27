@@ -2,11 +2,11 @@
 
 from distutils.core import setup
 
-setup(name='fiabilipy',
+setup(name='fiabilipy3',
       version='3.0',
       description='Learn engineering reliability with python',
-      long_description=open('README').read(),
-      author='Simon Chabot, Akim Sadaoui',
+      long_description=open('README.md').read(),
+      author='Simon Chabot, Akim Sadaoui, Vincent Lecrubier',
       author_email='contact@fiabilipy.org',
       url='http://fiabilipy.org',
       license='GPLv2+',
